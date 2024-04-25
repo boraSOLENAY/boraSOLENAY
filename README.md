@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, C++**
 
-- 📫 How to reach me **borasolenay@gmail.com** or <a href="https://www.borasolenay.me"> **borasolenay.me** </a>
+- 📫 If you want to contact with me >> **borasolenay@gmail.com** or <a href="https://www.borasolenay.me"> **www.borasolenay.me**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
