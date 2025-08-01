@@ -1,7 +1,7 @@
 <h1>Hi, I am Bora Şölenay</h1>
 <h3>Studying Information Security.</h3>
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently improving my skills in **Python, Data Science, Artificial Intelligence**
 
 - 📫 If you want to contact with me >> **www.borasolenay.com** / **borasolenay@gmail.com** or **info@borasolenay.com**
 
