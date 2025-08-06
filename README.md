@@ -1,5 +1,6 @@
 <h1>Hi, I am Bora Şölenay</h1>
-<h3>Studying Information Security.</h3>
+<h3>21 years old and from Turkey.</h3>
+<h3>Studying Information Security Technology.</h3>
 
 - 🌱 I’m currently improving my skills in **Python, Data Science, Artificial Intelligence**
 
